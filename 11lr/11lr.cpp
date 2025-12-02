@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 
 using namespace std;
 
@@ -34,6 +34,6 @@ int main()
         matrix[maxRow][j] = temp;
     }
     cout << endl;
-
+    // коментар
 }
 
